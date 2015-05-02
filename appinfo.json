@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Tech Talent South",
+    "longName": "Tech Talent South Bottom Clock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/OpenSans-Regular.ttf",
+                "name": "FONT_REGOPENSANS_34",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OpenSans-Light.ttf",
+                "name": "FONT_OPENSANS_34",
+                "type": "font"
+            },
+            {
+                "file": "images/ttspebble_clockbottom.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "TTS_BClock",
+    "uuid": "033f6cfa-3765-450f-8c32-2e49a13fbea6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
